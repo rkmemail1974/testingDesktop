@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "833a6784-0506-4fc1-812a-172a4f886619",
+            "Value": {
+                "id": "ea15f8dd-3a49-42b0-802e-5d74991249fc",
+                "resourcePath": "sprites\/haleluyah\/haleluyah.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "83e638ea-6b88-4847-8bb6-c1f29cb494ae",
             "Value": {
                 "id": "b21c9e9d-3d6b-44bd-99b3-4d1305919964",
